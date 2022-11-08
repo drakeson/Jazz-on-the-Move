@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_board"
+            android:icon="@drawable/ic_wine"
+            android:title="Wine And Whiskey" />
+
+        <item
+            android:id="@+id/nav_notifications"
+            android:icon="@drawable/coffee_beans"
+            android:title="Coffee" />
+
+        <item
+            android:id="@+id/nav_edit"
+            android:icon="@drawable/passport"
+            android:title="Travel" />
+
+        <item
+            android:id="@+id/nav_earn"
+            android:icon="@drawable/confetti"
+            android:title="Events" />
+
+        <item
+            android:id="@+id/nav_life"
+            android:icon="@drawable/balloons"
+            android:title="Lifestyle" />
+
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_about_us"
+                android:icon="@drawable/onair"
+                android:title="On Air" />
+
+            <item
+                android:id="@+id/nav_facebook"
+                android:icon="@drawable/facebook"
+                android:title="Facebook" />
+
+            <item
+                android:id="@+id/nav_twitter"
+                android:icon="@drawable/twitter"
+                android:title="Twitter" />
+
+            <item
+                android:id="@+id/nav_instagram"
+                android:icon="@drawable/instagram"
+                android:title="Instagram" />
+        </menu>
+    </item>
+
+</menu>
