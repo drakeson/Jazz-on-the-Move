@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "563801945543",
+    "project_id": "jazz-on-the-move",
+    "storage_bucket": "jazz-on-the-move.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563801945543:android:926396f73ec45b444815e2",
+        "android_client_info": {
+          "package_name": "ug.code.jazzonthemove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563801945543-ffnhq0t728taomsflf8gn8hfi64jd9ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbgFO4BzPS-ZSVxbpqF1DXRRhXGnRfsHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563801945543-ffnhq0t728taomsflf8gn8hfi64jd9ig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "563801945543-1clar0g91i3vo2vq1bapqgeiko6i695n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ug.code.Jazz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
